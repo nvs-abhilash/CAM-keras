@@ -32,7 +32,7 @@ python3 cam_keras.py
 ## Example result
 
 ### Input image
-![Input image](https://github.com/nvs-abhilash/CAM-keras/assets/test.jpg "Input Image")
+![Input image](https://github.com/nvs-abhilash/CAM-keras/blob/master/assets/test.jpg "Input Image")
 
 ### Output image
-![CAM image](https://github.com/nvs-abhilash/CAM-keras/assets/CAM.jpg "CAM Image")
+![CAM image](https://github.com/nvs-abhilash/CAM-keras/blob/master/assets/CAM.jpg "CAM Image")
