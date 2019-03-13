@@ -1,1 +1,1 @@
-from camkeras.cam import CAM
+from .cam import CAM
