@@ -1,4 +1,4 @@
-# Class Activation Mapping visulaization
+# Class Activation Mapping visualization
 
 Class Activation Mapping is a way to enables the convolutional neural network to have remarkable localization ability despite being trained on image-level labels. I use it to visualize what my model is looking in the images.
 
